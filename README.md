@@ -5,7 +5,7 @@ Diese Sammlung ist aus dem [XMAS Open Mobility Meetup](https://gobeta.de/veranst
 
 Alles hier ist noch in Diskussion, falls ihr noch Ideen dazu habt, helft gerne mit,fügt weitere Beschreibungen als Pull Request hinzu, legt ein Issue an, oder fragt uns nach einem direkten Zugang zum mitschreiben.
 
-### Liste der Anti-Patterns
+## Liste der Anti-Patterns
 * Zugang
   * [Noch ein Daten-Portal erstellen](patterns/datenportal.md)
   * [User-Agents ausschließen](patterns/useragents.md)
@@ -26,8 +26,15 @@ Alles hier ist noch in Diskussion, falls ihr noch Ideen dazu habt, helft gerne m
 * Unkategorisiert
   * [Die eigenen ‚offenen Daten‘ nicht nutzen](patterns/ungenutzt.md)
 
-### Mitarbeit
-Füge neue Patterns hinzu, indem du diese [Vorlage](patterns/template.md) kopierst, ausfüllst und oben in der Liste verlinkst.
+## Mitarbeit
+Wir bieten mehrere Möglichkeiten, beizutragen:
+ * Erstelle ein [Issue](https://github.com/transportkollektiv/opendata-antipatterns/issues)
+ * Forke das Repository und erstelle einen Pull Request
+ * Frage einen Zugang als Collaborator an (sinnvoll, wenn du bereits im Umfeld des Transportkollektiv bekannt bist)
+
+Egal, ob du in einem Fork arbeitest oder nicht: Füge neue Patterns hinzu, indem du diese [Vorlage](patterns/template.md) kopierst, ausfüllst und oben in der Liste verlinkst.
+
+## Weiterführende Infos
 ### Best Practices / Empfohlene Patterns
 * Das [OpenDataInstitute](https://theodi.org/) hat Policy-Design-Patterns veröffentlicht (Motivation, Struktur, Vor-/Nachteile), warum welche Daten veröffentlicht werden sollten: [Policy design patterns that help you use data to create impact ](https://theodi.org/article/policy-design-patterns-that-help-you-use-data-to-create-impact/). 
 * Insbesondere der Katalog [Strategic government interventions using data]( https://docs.google.com/document/d/1WfRZRudauA7QVXkT9DgwrWIC61e6DMf3LM_HPJiNxxQ/edit#heading=h.nbez2ng74heg)

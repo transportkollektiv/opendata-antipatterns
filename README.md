@@ -29,4 +29,5 @@ Alles hier ist noch in Diskussion, falls ihr noch Ideen dazu habt, helft gerne m
 ### Mitarbeit
 Füge neue Patterns hinzu, indem du diese [Vorlage](patterns/template.md) kopierst, ausfüllst und oben in der Liste verlinkst.
 ### Best Practices / Empfohlene Patterns
-* Das [OpenDataInstitute](https://theodi.org/) hat Policy-Design-Patterns veröffentlicht (Motivation, Struktur, Vor-/Nachteile), warum welche Daten veröffentlicht werden sollten: https://theodi.org/article/policy-design-patterns-that-help-you-use-data-to-create-impact/ . Insbesondere der Katalog [Strategic government interventions using data]( https://docs.google.com/document/d/1WfRZRudauA7QVXkT9DgwrWIC61e6DMf3LM_HPJiNxxQ/edit#heading=h.nbez2ng74heg)
+* Das [OpenDataInstitute](https://theodi.org/) hat Policy-Design-Patterns veröffentlicht (Motivation, Struktur, Vor-/Nachteile), warum welche Daten veröffentlicht werden sollten: [Policy design patterns that help you use data to create impact ](https://theodi.org/article/policy-design-patterns-that-help-you-use-data-to-create-impact/). 
+* Insbesondere der Katalog [Strategic government interventions using data]( https://docs.google.com/document/d/1WfRZRudauA7QVXkT9DgwrWIC61e6DMf3LM_HPJiNxxQ/edit#heading=h.nbez2ng74heg)

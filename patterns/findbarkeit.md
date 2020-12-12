@@ -9,8 +9,8 @@ Zugang
 ####  Ungute Lösung
 Datenbanken haben gerne ein Google Noindex, so dass man die Daten nicht via Suchmaschne finden kann
 
-####  Negative Konsequenzen: Experten mögen die Seiten und Institutionen kennen, aber das ist für den/die gemeine(n) Datennutzer(in) nicht zwangsweise der Fall
-diese verwendet Google. Also müssen die (Meta-)Daten auch via Google gefunden werden.
+####  Negative Konsequenzen
+Experten mögen die Seiten und Institutionen kennen, aber das ist für den/die gemeine(n) Datennutzer(in) nicht zwangsweise der Fall diese verwendet Google. Also müssen die (Meta-)Daten auch via Google gefunden werden.
 
 ####  Ursprüngliches Problem
 Komische Server-Standardeinstellungen durch Unternehmens-Policy, Panik vor Abmahnungen.

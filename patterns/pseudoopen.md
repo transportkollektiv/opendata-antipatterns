@@ -1,24 +1,24 @@
 ### Bezeichne es als OpenData, obwohl es keines ist
 
-#### Kurzbezeichnung:
+#### Kurzbezeichnung
 
-####  Kategorie
+#### Kategorie
 Lizenz
 
-#### Ungute Lösung:
+#### Ungute Lösung
 
-#### Negative Konsequenzen:
+#### Negative Konsequenzen
 
-#### Ursprüngliches Problem:
+#### Ursprüngliches Problem
 
-####  WorkAround
+#### WorkAround
 Viele Daten werden mit widersprüchlichen Informationen veröffentlicht, z.B. einer offenen Lizenz die praktisch alles Erlaubt, und einem Beschreibungstext der bestimmte Nutzungsarten verbietet. Wer mutig ist, verlässt sich auf die Lizenz und verwendet die Daten trotzdem und/oder mirrort sie unter Beibehaltung der Lizenz woanders.
 
-#### Empfohlene Lösung:
+#### Empfohlene Lösung
 
-#### Beispiele:
+#### Beispiele
 
-####  Cartoon/Visualisierung
+#### Cartoon/Visualisierung
 ?
 
-#### Weitere Informationen:
+#### Weitere Informationen

@@ -2,7 +2,7 @@
 
 #### Kurzbezeichnung
 
-####  Kategorie
+#### Kategorie
 Inhalt
 
 #### Ungute Lösung
@@ -11,14 +11,14 @@ Inhalt
 
 #### Ursprüngliches Problem
 
-####  WorkAround
+#### WorkAround
 
 
 #### Empfohlene Lösung
 
 #### Beispiele
 
-####  Cartoon/Visualisierung
+#### Cartoon/Visualisierung
 ?
 
 #### Weitere Informationen

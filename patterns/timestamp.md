@@ -1,24 +1,24 @@
 ### Download erzwingen bevor erkennbar ist, ob sich überhaupt etwas geändert hat
 
-#### Kurzbezeichnung:
+#### Kurzbezeichnung
 
-####  Kategorie
+#### Kategorie
 Zugang
 
-#### Ungute Lösung:j
+#### Ungute Lösungj
 
-#### Negative Konsequenzen:
+#### Negative Konsequenzen
 
-#### Ursprüngliches Problem:
+#### Ursprüngliches Problem
 
-####  WorkAround
+#### WorkAround
 
 
-#### Empfohlene Lösung:
+#### Empfohlene Lösung
 
-#### Beispiele:
+#### Beispiele
 
-####  Cartoon/Visualisierung
+#### Cartoon/Visualisierung
 ?
 
-#### Weitere Informationen:
+#### Weitere Informationen

@@ -1,22 +1,22 @@
 ### Verwende für Features keine, nur Dir bekannte, am besten ständig wechselnde IDs, die es unmöglich machen, sie mit Daten anderer Quellen zu verknüpfen
 
-#### Kurzbezeichnung:
+#### Kurzbezeichnung
 
-####  Kategorie
+#### Kategorie
 Inhalt
 
-#### Ungute Lösung:
+#### Ungute Lösung
 
-#### Negative Konsequenzen:
+#### Negative Konsequenzen
 
-#### Ursprüngliches Problem:
+#### Ursprüngliches Problem
 
-####  WorkAround
+#### WorkAround
 
 
-#### Empfohlene Lösung:
+#### Empfohlene Lösung
 
-####  Cartoon/Visualisierung
+#### Cartoon/Visualisierung
 ?
 
-#### Weitere Informationen:
+#### Weitere Informationen

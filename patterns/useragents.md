@@ -1,27 +1,27 @@
 ### User-Agents ausschließen
 
-####  Kurzbezeichnung
+#### Kurzbezeichnung
 Agenten-Diskriminierung
 
-####  Kategorie
+#### Kategorie
 Zugang
 
-####  Ungute Lösung
+#### Ungute Lösung
 Filtere anfragende Clients anhand ihres User-Agents (bei Anfragen oft implizit mitgesendete Selbstauskunft des Client-Programms, z.B. curl) aus
 Negative Konsequenzen: Bei (manuellen) Datensatz-Abrufen aus dem Browser scheint der Abruf zu funktionieren, automatisierte schlagen (z.B. mit Error Code 403) fehl
 
-####  Ursprüngliches Problem
+#### Ursprüngliches Problem
 Mutmaßlich Maßnahme zur Blockierung  von Massenanfragen naiv abfragender Clients 
 
-####  WorkAround: Den Agent explizit bei Anfragen überschreiben, z.B. bei curl
+#### WorkAround Den Agent explizit bei Anfragen überschreiben, z.B. bei curl
 `curl -A "cu rl" url`
 
-####  Empfohlene Lösung
+#### Empfohlene Lösung
 z.B. Rate-limits in Abhängigkeit der IP festlegen 
 
-#### Beispiele:
+#### Beispiele
 
-####  Cartoon/Visualisierung
+#### Cartoon/Visualisierung
 ?
 
-#### Weitere Informationen:
+#### Weitere Informationen

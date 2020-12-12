@@ -1,26 +1,26 @@
 ### Daten mit syntaktischen Fehlern veröffentlichen
 
-####  Kurzbezeichnung
+#### Kurzbezeichnung
 
 
-####  Kategorie
+#### Kategorie
 Inhalt
 
-#### Ungute Lösung:
+#### Ungute Lösung
 
-#### Negative Konsequenzen:
+#### Negative Konsequenzen
 
-#### Ursprüngliches Problem:
+#### Ursprüngliches Problem
 
-####  WorkAround
+#### WorkAround
 
 
-####  Empfohlene Lösung
+#### Empfohlene Lösung
 Es gibt diverse Tools, die automatisch Syntax- und inhaltliche Fehler finden. Verschiedene Menschen aus der Community betreiben auch schon Instanzen (konkret für GTFS und GTFS-RT) davon und helfen sicher gerne bei der Validierung.
 
-#### Beispiele:
+#### Beispiele
 
-####  Cartoon/Visualisierung
+#### Cartoon/Visualisierung
 ?
 
-#### Weitere Informationen:
+#### Weitere Informationen

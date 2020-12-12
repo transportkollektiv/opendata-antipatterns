@@ -1,25 +1,25 @@
 ### Daten mit zeitlichem Verzug bereitstellen
 
-#### Kurzbezeichnung:
+#### Kurzbezeichnung
 
-####  Kategorie
+#### Kategorie
 Inhalt
 
-#### Ungute Lösung:
+#### Ungute Lösung
 
-####  Negative Konsequenzen
+#### Negative Konsequenzen
 Die Daten sind damit für Echtzeit-Anwendungen unbrauchbar.
 
-#### Ursprüngliches Problem:
+#### Ursprüngliches Problem
 
-####  WorkAround
+#### WorkAround
 
 
-#### Empfohlene Lösung:
+#### Empfohlene Lösung
 
-#### Beispiele:
+#### Beispiele
 
-####  Cartoon/Visualisierung
+#### Cartoon/Visualisierung
 ?
 
-#### Weitere Informationen:
+#### Weitere Informationen

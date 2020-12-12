@@ -1,24 +1,24 @@
 ### Daten mit engem zeitlichem Vorausblick bereitstellen
 
-#### Kurzbezeichnung:
+#### Kurzbezeichnung
 
-####  Kategorie
+#### Kategorie
 Inhalt
 
-#### Ungute Lösung:
+#### Ungute Lösung
 
-#### Negative Konsequenzen:
+#### Negative Konsequenzen
 
-#### Ursprüngliches Problem:
+#### Ursprüngliches Problem
 
-####  WorkAround
+#### WorkAround
 
 
-#### Empfohlene Lösung:
+#### Empfohlene Lösung
 
-#### Beispiele:
+#### Beispiele
 
-####  Cartoon/Visualisierung
+#### Cartoon/Visualisierung
 ?
 
-#### Weitere Informationen:
+#### Weitere Informationen

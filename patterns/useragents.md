@@ -8,7 +8,9 @@ Zugang
 
 #### Ungute Lösung
 Filtere anfragende Clients anhand ihres User-Agents (bei Anfragen oft implizit mitgesendete Selbstauskunft des Client-Programms, z.B. curl) aus
-Negative Konsequenzen: Bei (manuellen) Datensatz-Abrufen aus dem Browser scheint der Abruf zu funktionieren, automatisierte schlagen (z.B. mit Error Code 403) fehl
+
+#### Negative Konsequenzen
+Bei (manuellen) Datensatz-Abrufen aus dem Browser scheint der Abruf zu funktionieren, automatisierte schlagen (z.B. mit Error Code 403) fehl
 
 #### Ursprüngliches Problem
 Mutmaßlich Maßnahme zur Blockierung  von Massenanfragen naiv abfragender Clients 

@@ -3,7 +3,9 @@
 ## Zielsetzung
 Diese Sammlung ist aus dem [XMAS Open Mobility Meetup](https://gobeta.de/veranstaltungen/xmas-open-mobility-data-community-remote-meetup-2020-xomdcrm20/) entstanden. Wir sammeln häufige dysfunktionale Muster, mit denen die Veröffentlichung von Open Data leicht zu einem Beispiel für "das Gegenteil von gut ist gut gemeint" wird. Hoffentlich können wird durch diese Infos dazu beitragen, dass mehr tatsächlich gute OpenData-Angebote entstehen.
 
-Alles hier ist noch in Diskussion, falls ihr noch Ideen dazu habt, helft gerne mit,fügt weitere Beschreibungen als Pull Request hinzu, legt ein Issue an, oder fragt uns nach einem direkten Zugang zum mitschreiben.
+Sobald die Daten auf einem brauchbaren Stand sind, werden wir diese Liste auch als Blog über Github pages veröffentlichen - das ist dann etwas übersichtlicher zu lesen als direkt hier.
+
+Alles hier ist noch in Diskussion – falls ihr noch Ideen dazu habt, helft gerne mit (siehe unten).
 
 ## Liste der Anti-Patterns
 * Zugang

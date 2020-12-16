@@ -10,10 +10,10 @@ Zugang
 Erfordere vor dem Abruf der Daten ein explizites Login über Login-Maske.
 
 #### Negative Konsequenzen
-Automatisierte Abrufe, wie sie zur zeitnahen Weiterverarbeitung von Daten-Updates erforderlich sind, werden hierdurch erschwert. Entweder Nutzende führen einen manuellen Login unud Download durch, oder sie implementieren durch Skript 
+Automatisierte Abrufe, wie sie zur zeitnahen Weiterverarbeitung von Daten-Updates erforderlich sind, werden hierdurch erschwert. Entweder Nutzende führen einen manuellen Login und Download durch, oder sie implementieren durch Skript 
 
 #### Ursprüngliches Problem
-Mutmaßlich ähnliche Beweggründe wie beim Muster "[Türsteher](registrierung.md)", darüberhinaus mutmaßlich fehlendes Verständnis für die Bedeutung automatisierbarer Downloads.
+Mutmaßlich ähnliche Beweggründe wie beim Muster "[Türsteher](registrierung.md)", darüber hinaus mutmaßlich fehlendes Verständnis für die Bedeutung automatisierbarer Downloads.
 
 #### WorkAround
 Implementieren einer Skript-Lösung, die durch Browser-Automatisierung o.ä. die erforderliche Anmeldesequenz durchläuft und die Daten abruft. Im zweiten Schritt "barrierefreie" Bereitstellung der heruntergeladenen Daten.

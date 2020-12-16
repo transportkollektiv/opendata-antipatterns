@@ -14,7 +14,7 @@ Alles hier ist noch in Diskussion – falls ihr noch Ideen dazu habt, helft gern
   * [Jede neue Version unter neuer Adresse veröffentlichen](patterns/versionierung.md)
   * [Verwende für Features keine, nur Dir bekannte, am besten ständig wechselnde IDs, die es unmöglich machen, sie mit Daten anderer Quellen zu verknüpfen](patterns/ids.md)
   * [Erfordere eine Registrierung zum Abruf der ‚offenen Daten‘](patterns/registrierung.md)
-  * [Erfordere ein Login zum Abruf der ‚offenen Daten‘](patterns/registrierung.md)
+  * [Erfordere ein Login zum Abruf der ‚offenen Daten‘](patterns/login.md)
   * [Findbarkeit der Daten](patterns/findbarkeit.md)
 * Inhalt
   * [Daten mit syntaktischen Fehlern veröffentlichen](patterns/syntaxfehler.md)

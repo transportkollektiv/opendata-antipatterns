@@ -15,7 +15,8 @@ Bei (manuellen) Datensatz-Abrufen aus dem Browser scheint der Abruf zu funktioni
 #### Ursprüngliches Problem
 Mutmaßlich Maßnahme zur Blockierung  von Massenanfragen naiv abfragender Clients 
 
-#### WorkAround Den Agent explizit bei Anfragen überschreiben, z.B. bei curl
+#### WorkAround
+Den Agent explizit bei Anfragen überschreiben, z.B. bei curl
 `curl -A "cu rl" url`
 
 #### Empfohlene Lösung

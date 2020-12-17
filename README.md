@@ -16,6 +16,7 @@ Alles hier ist noch in Diskussion – falls ihr noch Ideen dazu habt, helft gern
   * [Erfordere eine Registrierung zum Abruf der ‚offenen Daten‘](patterns/registrierung.md)
   * [Erfordere ein Login zum Abruf der ‚offenen Daten‘](patterns/login.md)
   * [Findbarkeit der Daten](patterns/findbarkeit.md)
+  * [Nutze Dienste ohne Zugriff auf Deine Daten sicherzustellen](patterns/saas.md)
 * Inhalt
   * [Daten mit syntaktischen Fehlern veröffentlichen](patterns/syntaxfehler.md)
   * [Daten mit zeitlichem Verzug bereitstellen](patterns/verzug.md)

@@ -17,6 +17,7 @@ Alles hier ist noch in Diskussion – falls ihr noch Ideen dazu habt, helft gern
   * [Erfordere ein Login zum Abruf der ‚offenen Daten‘](patterns/login.md)
   * [Findbarkeit der Daten](patterns/findbarkeit.md)
   * [Nutze Dienste ohne Zugriff auf Deine Daten sicherzustellen](patterns/saas.md)
+  * [Generiere eine bunte Webseite statt der Daten](patterns/html.md)
 * Inhalt
   * [Daten mit syntaktischen Fehlern veröffentlichen](patterns/syntaxfehler.md)
   * [Daten mit zeitlichem Verzug bereitstellen](patterns/verzug.md)

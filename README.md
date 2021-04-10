@@ -19,6 +19,7 @@ Alles hier ist noch in Diskussion – falls ihr noch Ideen dazu habt, helft gern
   * [Nutze Dienste ohne Zugriff auf Deine Daten sicherzustellen](patterns/saas.md)
 * Inhalt
   * [Daten mit syntaktischen Fehlern veröffentlichen](patterns/syntaxfehler.md)
+  * [Datenformat unangekündigt ändern](patterns/formataenderung.md)
   * [Daten mit zeitlichem Verzug bereitstellen](patterns/verzug.md)
   * [Daten mit engem zeitlichem Vorausblick bereitstellen](patterns/vorausblick.md)
   * [Download erzwingen bevor erkennbar ist, ob sich überhaupt etwas geändert hat](patterns/timestamp.md)

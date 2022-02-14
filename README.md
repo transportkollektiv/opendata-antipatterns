@@ -29,6 +29,7 @@ Alles hier ist noch in Diskussion – falls ihr noch Ideen dazu habt, helft gern
   * [Daten mit engem zeitlichem Vorausblick bereitstellen](patterns/vorausblick.md)
   * [Download erzwingen bevor erkennbar ist, ob sich überhaupt etwas geändert hat](patterns/timestamp.md)
   * [Behaupte, Du verwendest das Standardformat, obwohl du nur das technische Protokoll meinst](patterns/formatprotokoll.md)
+  * [Generiere eine bunte Webseite statt der Daten](patterns/html.md)
 
 * Lizenz
   * [Bezeichne es als OpenData, obwohl es keines ist](patterns/pseudoopen.md)

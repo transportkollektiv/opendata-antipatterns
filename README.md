@@ -17,17 +17,23 @@ Alles hier ist noch in Diskussion – falls ihr noch Ideen dazu habt, helft gern
   * [Erfordere ein Login zum Abruf der ‚offenen Daten‘](patterns/login.md)
   * [Findbarkeit der Daten](patterns/findbarkeit.md)
   * [Nutze Dienste ohne Zugriff auf Deine Daten sicherzustellen](patterns/saas.md)
-  * [Generiere eine bunte Webseite statt der Daten](patterns/html.md)
-* Inhalt
+
+* Struktur / Format
   * [Daten mit syntaktischen Fehlern veröffentlichen](patterns/syntaxfehler.md)
+  * [Datenformat unangekündigt ändern](patterns/formataenderung.md)
+  * [Verwende dein selbstdefiniertes Datenformat, obwohl es Standards gibt](patterns/eigenesdatenformat.md)
+  * [Fragmentiere Deine Daten so sehr, dass es Nutzenden nicht möglich ist, sie zu einem kohärenten Ganzen zusammenzufügen](patterns/fragmentierung.md)
+
+* Inhalt
   * [Daten mit zeitlichem Verzug bereitstellen](patterns/verzug.md)
   * [Daten mit engem zeitlichem Vorausblick bereitstellen](patterns/vorausblick.md)
   * [Download erzwingen bevor erkennbar ist, ob sich überhaupt etwas geändert hat](patterns/timestamp.md)
-  * [Verwende dein selbstdefiniertes Datenformat, obwohl es Standards gibt](patterns/eigenesdatenformat.md)
   * [Behaupte, Du verwendest das Standardformat, obwohl du nur das technische Protokoll meinst](patterns/formatprotokoll.md)
-  * [Fragmentiere Deine Daten so sehr, dass es Nutzenden nicht möglich ist, sie zu einem kohärenten Ganzen zusammenzufügen](patterns/fragmentierung.md)
+  * [Generiere eine bunte Webseite statt der Daten](patterns/html.md)
+
 * Lizenz
   * [Bezeichne es als OpenData, obwohl es keines ist](patterns/pseudoopen.md)
+
 * Unkategorisiert
   * [Die eigenen ‚offenen Daten‘ nicht nutzen](patterns/ungenutzt.md)
 

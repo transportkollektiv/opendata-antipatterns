@@ -25,7 +25,7 @@ Sich mit anderen Datenanbietern auf ein gemeinsames Portal einigen und dieses an
 ?
 
 #### Beispiele
-Heute noch nicht existierendes OpenData Portal Baden-Württemberg ([angekündigt in 2012](https://www.politik-digital.de/news/open-data-plattform-in-baden-wuerttemberg-gestartet-13222/))
+* [OpenData Portal Baden-Württemberg](https://www.mobidata-bw.de/)
 
 #### Weitere Informationen
 [AntiDatenportal Ultras](https://stefan.bloggt.es/2020/07/anti-datenportal-ultras/) von Stefan

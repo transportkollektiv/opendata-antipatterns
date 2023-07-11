@@ -15,7 +15,7 @@ Alles hier ist noch in Diskussion – falls ihr noch Ideen dazu habt, helft gern
   * [Verwende für Features keine, nur Dir bekannte, am besten ständig wechselnde IDs, die es unmöglich machen, sie mit Daten anderer Quellen zu verknüpfen](patterns/ids.md)
   * [Erfordere eine Registrierung zum Abruf der ‚offenen Daten‘](patterns/registrierung.md)
   * [Erfordere ein Login zum Abruf der ‚offenen Daten‘](patterns/login.md)
-  * [Findbarkeit der Daten](patterns/findbarkeit.md)
+  * [Mache Deine Daten unauffindbar](patterns/hide-and-seek.md)
   * [Nutze Dienste ohne Zugriff auf Deine Daten sicherzustellen](patterns/saas.md)
 
 * Struktur / Format

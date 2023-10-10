@@ -17,6 +17,7 @@ Alles hier ist noch in Diskussion – falls ihr noch Ideen dazu habt, helft gern
   * [Erfordere ein Login zum Abruf der ‚offenen Daten‘](patterns/login.md)
   * [Findbarkeit der Daten](patterns/findbarkeit.md)
   * [Nutze Dienste ohne Zugriff auf Deine Daten sicherzustellen](patterns/saas.md)
+  * [Verwechsle deinen Datenkatalog mit einer Nachrichtenseite oder einem Social Network](patterns/wohnzimmerdatenportal.md)
 
 * Struktur / Format
   * [Daten mit syntaktischen Fehlern veröffentlichen](patterns/syntaxfehler.md)
